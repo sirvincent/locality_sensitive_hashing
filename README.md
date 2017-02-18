@@ -14,9 +14,12 @@ the correct value of 1205 user pairs. However in comparison to an exhaustive sea
 which would take 106 days, the algorithm is significantly faster.
 
 The dataset used is incorporated in a .npy file: 'user_movie.npy'. The dataset is actually a reduced dataset obtained from the netflix challenge (http://www.netflixprize.com/) we removed the users that rated less than 300 or more than 3000 movies.
+Also incorporated in this repository is a report made about the implementation of the algorithm and our results (lsh.pdf).
 
 The algorithm was made for an assignment of the course: Advances in Datamining given by Dr. W. Kowalczyk.
 The course was given at Leiden University and is part of the Computer Science Master track.
 see: https://studiegids.leidenuniv.nl/courses/show/57329/advances-in-data-mining
+
+
 
 If you have any questions, remarks or possible improvements please let us know!
