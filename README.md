@@ -13,7 +13,7 @@ Core i5-6300U CPU @2.4 GHz with 8 GB of RAM. The result is found to be off from
 the correct value of 1205 user pairs. However in comparison to an exhaustive search,
 which would take 106 days, the algorithm is significantly faster.
 
-The dataset used is incorporated in a .npy file: 'user_movie.npy'.
+The dataset used is incorporated in a .npy file: 'user_movie.npy'. The dataset is actually a reduced dataset obtained from the netflix challenge (http://www.netflixprize.com/) we removed the users that rated less than 300 or more than 3000 movies.
 
 The algorithm was made for an assignment of the course: Advances in Datamining given by Dr. W. Kowalczyk.
 The course was given at Leiden University and is part of the Computer Science Master track.
