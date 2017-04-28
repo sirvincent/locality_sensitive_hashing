@@ -12,6 +12,7 @@ from scipy import sparse    # for the sparse matrices
 from timeit import default_timer as timer
 import itertools
 
+# added a line
 
 def load_data(file_location):
     """
